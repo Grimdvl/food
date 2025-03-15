@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://grimdvl.github.io/food/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
     "@babel/preset-env": "^7.21.4",
     "babel-loader": "^9.1.2",
     "core-js": "^3.30.0",
+    "gh-pages": "^6.3.0",
     "json-server": "^0.17.3",
     "webpack": "^5.98.0",
     "webpack-cli": "^5.1.4"
